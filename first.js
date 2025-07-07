@@ -1,73 +1,38 @@
+// let bonus = 102
+// let  score = 23
 
-let js = "amazing";
-
-let firstname = "dev";
-
-console.log(firstname);
+// let totalScore = bonus+score
 
 
-console.log(40 + 23 + 8 - 10);
-let PI = 3.1415;
+// let substract = 9-3
+// let multiplication = 3*5
 
-let myfirstjob = "programmer";
+// let division = 10/2
 
-let mycurrentjob = "student";
+// let reminder = 9%2
+// let exponant = 2 ** 4
 
-
-let job1 = "programmer";
-let job2 = "teacher";
-
-console.log(myfirstjob);
-console.log(mycurrentjob);
-
-let javascript = true;
-console.log(javascript);
-
-console.log(typeof javascript);
-console.log(typeof "jonas");
-
-console.log(typeof 34);
-
-javascript = "yes!";
-console.log(typeof javascript);
-
-let year;
-console.log(year);
-
-console.log(typeof year);
-
-year = 19191;
-
-console.log(year);
-console.log(typeof year);
-
-console.log(typeof null);
+// let myscore = 110
+// myscore++
+// ==myscore
 
 
-let age = 31;
-age = 45;
 
-const birthyear = 1990;
-birthyear = 6757;
+// //comparision operation
 
-const agejonas = 2037 - 1991;
-const agesarah = 2037 - 2020;
-console.log(agesarah);
-console.log(agejonas * 2);
-console.log(agejonas);
+// num1=4
+// num2 = 5
 
 
-const name = "jonas";
-const lastname = "dev";
-const space = " ";
+// console.log(num1==num2)
 
-console.log(name + space + lastname);
+let balance = 120
+let anotherbalance = new Number(120)
 
-let x = 10 + 5;
-console.log(x);
 
-//comparision operator
-
-console.log(agejonas > agesarah);
-
-console.log(agesarah >= 18);
+//we can converting primitive data type into non primitive data type but we cannot converting
+//non primitive data type into primitive data type
+console.log(balance)
+console.log(anotherbalance)
+console.log(typeof(anotherbalance))
+console.log(typeof(balance))
